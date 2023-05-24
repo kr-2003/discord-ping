@@ -2,6 +2,7 @@ package main
 
 import (
 	"app/main/config"
+	"app/main/bot"
 	"fmt"
 )
 
